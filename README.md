@@ -52,19 +52,20 @@ pip install -r requirements.txt
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/bank-marketing-analysis.git
+git clone https://github.com/ishan12byte/Bank-Marketing-Analysis.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd bank-marketing-analysis
+cd Bank-Marketing-Analysis
 ```
 
 3. Run the analysis script:
 
 ```bash
 python analysis.py
+
 ```
 
 Or, explore the project interactively in a Jupyter Notebook.
